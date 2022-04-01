@@ -1,0 +1,2 @@
+# Hexard
+Simple Voice Assistant
