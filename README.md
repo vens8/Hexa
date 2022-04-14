@@ -1,4 +1,4 @@
-# Hexard
+# Hexa
 Simple Voice Assistant
 
 # Prerequisite Setup
