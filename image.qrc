@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>infoLabel.png</file>
+    <file>button22.gif</file>
+    <file>tech2.jpg</file>
+    <file>button2.gif</file>
+    <file>button.gif</file>
+  </qresource>
+</RCC>
